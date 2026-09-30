@@ -1,0 +1,22 @@
+{
+  "nome_aplicacao": "OLHO DE DEUS",
+  "versao": "0.3.0",
+  "tema": "futurista",
+  "idioma": "pt-BR",
+
+  "modo_inicial": "ONLINE",
+
+  "animacao": true,
+  "sons": false,
+  "historico": true,
+
+  "internet": true,
+  "modo_online": true,
+  "modo_offline": false,
+
+  "rede": "OBRIGATÓRIA",
+  "apis_externas": "PERMITIDAS",
+  "nuvem": false,
+
+  "confirmar_conexao": true
+}

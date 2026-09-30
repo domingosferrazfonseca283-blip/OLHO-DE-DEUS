@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "O OLHO",
+    "categoria": "visão",
+    "significado": "Representa observação, consciência e procura por aquilo que ainda não foi percebido."
+  },
+  {
+    "nome": "A CHAVE",
+    "categoria": "mudança",
+    "significado": "Representa acesso, descoberta e uma possibilidade que depende de uma escolha."
+  },
+  {
+    "nome": "A TORRE",
+    "categoria": "estrutura",
+    "significado": "Representa estabilidade, proteção e estruturas que precisam ser avaliadas."
+  },
+  {
+    "nome": "A SOMBRA",
+    "categoria": "incerteza",
+    "significado": "Representa aquilo que ainda não está claro e que exige atenção antes de uma conclusão."
+  },
+  {
+    "nome": "A ESTRELA",
+    "categoria": "direção",
+    "significado": "Representa orientação, objetivo e procura por um caminho."
+  },
+  {
+    "nome": "O CÍRCULO",
+    "categoria": "ciclo",
+    "significado": "Representa continuidade, repetição e encerramento de uma etapa."
+  }
+]

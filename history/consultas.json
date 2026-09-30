@@ -1,0 +1,130 @@
+[
+  {
+    "data": "2026-09-30T00:38:36",
+    "pergunta": "O que devo observar nesta fase da minha vida?",
+    "simbolo": "A TORRE",
+    "categoria": "estrutura",
+    "significado": "Representa estabilidade, proteção e estruturas que precisam ser avaliadas."
+  },
+  {
+    "data": "2026-09-30T00:40:13",
+    "pergunta": "O que devo observar nesta fase da minha vida?",
+    "simbolos": [
+      {
+        "posicao": "PASSADO",
+        "nome": "O CÍRCULO",
+        "categoria": "ciclo",
+        "significado": "Representa continuidade, repetição e encerramento de uma etapa."
+      },
+      {
+        "posicao": "PRESENTE",
+        "nome": "A SOMBRA",
+        "categoria": "incerteza",
+        "significado": "Representa aquilo que ainda não está claro e que exige atenção antes de uma conclusão."
+      },
+      {
+        "posicao": "CAMINHO",
+        "nome": "A ESTRELA",
+        "categoria": "direção",
+        "significado": "Representa orientação, objetivo e procura por um caminho."
+      }
+    ]
+  },
+  {
+    "data": "2026-09-30T00:41:26",
+    "pergunta": "O que devo observar nesta fase da minha vida?",
+    "simbolos": [
+      {
+        "posicao": "PASSADO",
+        "nome": "O CÍRCULO",
+        "categoria": "ciclo",
+        "significado": "Representa continuidade, repetição e encerramento de uma etapa."
+      },
+      {
+        "posicao": "PRESENTE",
+        "nome": "A CHAVE",
+        "categoria": "mudança",
+        "significado": "Representa acesso, descoberta e uma possibilidade que depende de uma escolha."
+      },
+      {
+        "posicao": "CAMINHO",
+        "nome": "A SOMBRA",
+        "categoria": "incerteza",
+        "significado": "Representa aquilo que ainda não está claro e que exige atenção antes de uma conclusão."
+      }
+    ]
+  },
+  {
+    "data": "2026-09-30T00:42:58",
+    "pergunta": "2",
+    "simbolos": [
+      {
+        "posicao": "PASSADO",
+        "nome": "A SOMBRA",
+        "categoria": "incerteza",
+        "significado": "Representa aquilo que ainda não está claro e que exige atenção antes de uma conclusão."
+      },
+      {
+        "posicao": "PRESENTE",
+        "nome": "O OLHO",
+        "categoria": "visão",
+        "significado": "Representa observação, consciência e procura por aquilo que ainda não foi percebido."
+      },
+      {
+        "posicao": "CAMINHO",
+        "nome": "A CHAVE",
+        "categoria": "mudança",
+        "significado": "Representa acesso, descoberta e uma possibilidade que depende de uma escolha."
+      }
+    ]
+  },
+  {
+    "data": "2026-09-30T00:43:03",
+    "pergunta": "4",
+    "simbolos": [
+      {
+        "posicao": "PASSADO",
+        "nome": "O CÍRCULO",
+        "categoria": "ciclo",
+        "significado": "Representa continuidade, repetição e encerramento de uma etapa."
+      },
+      {
+        "posicao": "PRESENTE",
+        "nome": "A TORRE",
+        "categoria": "estrutura",
+        "significado": "Representa estabilidade, proteção e estruturas que precisam ser avaliadas."
+      },
+      {
+        "posicao": "CAMINHO",
+        "nome": "A CHAVE",
+        "categoria": "mudança",
+        "significado": "Representa acesso, descoberta e uma possibilidade que depende de uma escolha."
+      }
+    ]
+  },
+  {
+    "data": "2026-09-30T00:45:21",
+    "modo": "LEITURA DE 3 SÍMBOLOS",
+    "pergunta": "O que devo observar nesta fase da minha vida?",
+    "simbolos": [
+      {
+        "posicao": "PASSADO",
+        "nome": "A ESTRELA",
+        "categoria": "direção",
+        "significado": "Representa orientação, objetivo e procura por um caminho."
+      },
+      {
+        "posicao": "PRESENTE",
+        "nome": "A TORRE",
+        "categoria": "estrutura",
+        "significado": "Representa estabilidade, proteção e estruturas que precisam ser avaliadas."
+      },
+      {
+        "posicao": "CAMINHO",
+        "nome": "O CÍRCULO",
+        "categoria": "ciclo",
+        "significado": "Representa continuidade, repetição e encerramento de uma etapa."
+      }
+    ]
+  }
+]
