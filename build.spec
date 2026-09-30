@@ -2,7 +2,7 @@
 
 from pathlib import Path
 
-BASE_DIR = Path(__file__).resolve().parent
+BASE_DIR = Path.cwd().resolve()
 
 a = Analysis(
     ["app/main_gui.py"],
